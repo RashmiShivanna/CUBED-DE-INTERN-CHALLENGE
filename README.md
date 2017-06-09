@@ -9,5 +9,5 @@ The python scripts are included in the project which include the functionality t
 
 The program is designed to save the data into an mssql database. It also includes code to save the data into csv file. either one can be used
 
-The database backup has been uploaded as zipped file Amazon.zip
+Since it was a bit slower to write scrapped data directly into the database, data was saved into a csv file and the csv file was imported into mssql database. The database backup has been uploaded as zipped file Amazon.zip. The DTS package used to import the data has also been uploaded 
 
